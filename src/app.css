@@ -1,0 +1,41 @@
+.design-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  .empty-cup {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .design-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .epic-designs {
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  .rs2, .bt, .studio-d3 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .numbers {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  .bottom-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
